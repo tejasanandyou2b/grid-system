@@ -1,0 +1,37 @@
+.container_12 {
+    background-color: red;
+}
+
+nav li{
+    display: inline ; margin-left: 0; margin-right: 30px;
+}
+
+
+
+
+aside{
+    background-color: aqua;
+  
+}
+
+.primary{
+    background-color:whitesmoke;
+}
+
+header{
+    background-color: chartreuse;
+}
+
+section{
+    box-sizing: border-box;
+    padding:10px;
+}
+
+ul a {
+    text-decoration: none;
+
+}
+ a:active{
+    color:darkorchid;
+}
+
